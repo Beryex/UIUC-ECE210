@@ -1,4 +1,4 @@
-# ECE 210: Analog Signal Processing @ ZJUI Spring 2023 by Bryan Wang
+# ECE 210: Analog Signal Processing @ UIUC Spring 2023 by Bryan Wang
 [Bryan Wang](https://github.com/Wang-Boyao) | Analog Signal Processing, Spring 2023  
 Instructor:   
 [徐杨](https://person.zju.edu.cn/yangxu) @ Zhejiang University
